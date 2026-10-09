@@ -1,5 +1,3 @@
-# Projeto_Bilhete_Unico
-
 # UrbanX — Sistema de Gerenciamento do Bilhete Único
 
 O **UrbanX** é um aplicativo mobile desenvolvido para centralizar, organizar e simplificar a gestão do Bilhete Único para usuários do transporte público[cite: 5]. O sistema resolve a fragmentação de informações de consulta e recarga, oferecendo uma plataforma única e intuitiva que garante autonomia e facilidade no cotidiano dos passageiros[cite: 5, 6].
